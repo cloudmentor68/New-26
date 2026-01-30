@@ -51,3 +51,15 @@ sudo systemctl restart jenkins
 ```
 
 ## Start nodeapp project
+
+Goto jenkins dashboard  ->  click create new item
+
+Mention github project section : your github repo url
+
+Pipeline : type or use projects syntax
+
+Build now
+
+
+
+-------------------------------------------
